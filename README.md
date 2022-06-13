@@ -1,7 +1,7 @@
 CI-3641 Lenguajes de Programación I
 Ana Santos 17-10602
 
-                PARCIAL #1
+   *_PARCIAL #1_*
 
 Pregunta 3: Lenguaje escogido Kotlin
 
@@ -9,12 +9,16 @@ Pregunta 3: Lenguaje escogido Kotlin
 
 1) Debe ingresar a la carpeta Pregunta3
 2) Ingresar el comando make
-3) Ingresar el siguiente comando junto con el número de bloques ./bs.sh <numbloques>
-4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema
-    4.1) RESERVAR <nombre> <numbloques>
-    4.2) LIBERAR <nombre>
-    4.3) MOSTRAR
-    4.4) SALIR
+3) Ingresar el siguiente comando junto con el número de bloques ./bs.sh [numbloques].
+4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema.
+
+  a) RESERVAR [nombre] [numbloques]
+
+  b) LIBERAR [nombre]
+
+  c) MOSTRAR
+
+  d) SALIR
 
 Pregunta 4: Lenguaje escogido Kotlin
 
@@ -27,19 +31,30 @@ Pregunta 4: Lenguaje escogido Kotlin
 
 ¿Cuál es la simbología para las operaciones con Cuaterniones?
 
-Suma ==> +
-Producto ==> *
-Conjugada ==> -
-Promedio ==> !
+a) Suma ==> +
+
+b) Producto ==> *
+
+c) Conjugada ==> -
+
+d) Promedio ==> ! 
 
 Pregunta 5: Lenguaje escogido Kotlin
 
 1) Debe ingresar a la carpeta Pregunta4
 2) Ingresar el comando make
 3) Ingresar el siguiente comando junto con el número de bloques ./dT.sh
-4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema
-    4.1) DEFINIR PROGRAMA <nombre> <lenguaje>
-    4.2) DEFINIR INTERPRETE <lenguajebase> <lenguaje>
-    4.3) DEFINIR TRADUCTOR <lenguajebase> <lenguajeorigen> <lenguajedestino>
-    4.4) EJECUTAR <nombre>
-    4.5) SALIR
+4) Aparecerá un pseudo-terminal "ACCION>" esperando por las acciones definidas en el problema.
+
+    a) DEFINIR PROGRAMA [nombre] [lenguaje]
+    
+    b) DEFINIR INTERPRETE [lenguajebase] [lenguaje]
+    
+    c) DEFINIR TRADUCTOR [lenguajebase] [lenguajeorigen] [lenguajedestino]
+    
+    d) EJECUTAR [nombre]
+    
+    e) SALIR
+    
+    
+   
