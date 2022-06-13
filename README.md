@@ -56,5 +56,9 @@ Pregunta 5: Lenguaje escogido Kotlin
     
     e) SALIR
     
-    
-   
+Reto Extra: Lenguaje escogido Kotlin  
+
+1) Debe ingresar a la carpeta RetoExtra
+2) Ingresar el comando make
+3) Ingresar el siguiente comando junto con el número de bloques ./reto.sh [num]
+4) Se calculará la función jaweno.
